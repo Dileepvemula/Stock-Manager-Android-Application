@@ -1,7 +1,4 @@
-/***
- *  Project: Software Construction
- *  Author: DILEEP VEMULA
- */
+
 package com.example.softwareconstructionassign;
 
 import android.content.Intent;
@@ -30,7 +27,7 @@ public class About extends AppCompatActivity {
         assign.setText(Html.fromHtml(src));
 
         version.setText("version 1.0");
-        String src2 = "<b>"+"Developed by : "+"</b>"+"Abhishek Chetri, Mansoor Ali Halari, Kruthi Senapathi and Dileep Vemula.";
+        String src2 = "<b>"+"Developed by : "+"</b>"+"Dileep Vemula, Abhishek Chetri, Mansoor Ali Halari and Kruthi Senapathi ";
         developers.setText(Html.fromHtml(src2));
 
     }
