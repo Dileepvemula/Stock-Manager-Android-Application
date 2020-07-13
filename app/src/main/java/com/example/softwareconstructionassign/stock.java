@@ -1,8 +1,5 @@
 package com.example.softwareconstructionassign;
 
-/**
- * Author - Abhishek Chetri (u6647717)
- */
 
 public class stock {
     String stock;
