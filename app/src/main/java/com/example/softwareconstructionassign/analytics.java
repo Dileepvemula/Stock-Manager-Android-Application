@@ -1,7 +1,4 @@
-/******
- * Project: Software Construction
- * Author: KRUTHI KRISHNA SENAPATHI (U6601532)
- */
+
 package com.example.softwareconstructionassign;
 
 import android.content.Intent;
@@ -74,7 +71,7 @@ public class analytics extends AppCompatActivity {
             public void onItemSelected(AdapterView<?> parentView, View selectedItemView, int position, long id) {
                 stockCode = selectStock.getSelectedItem().toString();
                 // System.out.println(" "+stockCode);
-                String url = "https://www.alphavantage.co/query?function=TIME_SERIES_INTRADAY&symbol=" + stockCode + "&interval=5min&apikey=GF4EX3XKAFSY29GH";
+                String url = "https://www.alphavantage.co/query?function=TIME_SERIES_INTRADAY&symbol=" + stockCode + "&interval=5min&apikey='API KEY HERE'";
                 JsonObjectRequest jsonObjectRequest = new JsonObjectRequest // getting the required data by using the JSON file and parsing it
                         (Request.Method.GET, url, null, new Response.Listener<JSONObject>() {
                             @Override
@@ -141,7 +138,7 @@ public class analytics extends AppCompatActivity {
             }
 
         });
-        String url = "https://www.alphavantage.co/query?function=TIME_SERIES_INTRADAY&symbol=" + stockCode + "&interval=5min&apikey=GF4EX3XKAFSY29GH";
+        String url = "https://www.alphavantage.co/query?function=TIME_SERIES_INTRADAY&symbol=" + stockCode + "&interval=5min&apikey='API KEY HERE'";
         JsonObjectRequest jsonObjectRequest = new JsonObjectRequest
                 (Request.Method.GET, url, null, new Response.Listener<JSONObject>() {
                     @Override
