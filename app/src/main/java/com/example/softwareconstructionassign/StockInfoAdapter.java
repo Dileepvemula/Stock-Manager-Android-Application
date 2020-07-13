@@ -1,9 +1,5 @@
 package com.example.softwareconstructionassign;
 
-/**
- * Author - Abhishek Chetri (u6647717)
- */
-
 import android.content.Context;
 import android.view.LayoutInflater;
 import android.view.View;
