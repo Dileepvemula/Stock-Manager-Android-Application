@@ -1,10 +1,4 @@
-# App - Stock Manager
-
-## Team structure and roles
-+ Abhishek Chetri u6647717 - Team Leader
-+ Mansoor Ali Halari u6621243 - team member
-+ Dileep Vemula u6631257 - team member
-+ Kruthi Senapathi u6601532 - team member 
+# Stock Manager - Android Application
 
 ## App Overview
 The app is named Stock Manager. Stocks are primarily investment of an individual in a company. 
@@ -56,41 +50,5 @@ This activity aim is to acknowledge's the efforts of the developers.
 Help includes detailed information about the app and its usage. 
 It also has some predefined and answered frequently asked questions to help user get across the app with ease. 
 
-## Design Documentation
-+ [Design Summary](designsummary)
-+ [Testing Summary](testingsummary)
-
-## Minuted Meetings
-+ [Meeting 1 - 21/04/2019 - decide team structure and app](meeting1.md)
-+ [Meeting 2 - 23/04/2019 - divide up tasks](meeting2.md)
-+ [Meeting 3 - 15/05/2019 - work on existing issues and add new functionality](meeting3.md)
-+ [Meeting 4 - 22/05/2019 - review and work on documentation](meeting.md)
-
-## Statement of Originality
-I Abhishek Chetri declare that everything I have submitted in this
-assignment is entirely my own work, with exceptions given below.
-
-I Mansoor Ali Halari declare that everything I have submitted in this
-assignment is entirely my own work, with exceptions given below.
-
-I Dileep Vemula declare that everything I have submitted in this
-assignment is entirely my own work, with exceptions given below.
-
-I Kruthi Senapathi declare that everything I have submitted in this
-assignment is entirely my own work, with exceptions given below.
-
 ### Inspiration
 This is an utilitarian app based on users need for managing stocks list and portfolio. 
-
-### Code
-+ https://developer.android.com/guide/
-+ https://firebase.google.com/docs/
-
-
-### Assets
-+ Credentials for Firebase: Username - softwareconstructionassignment@gmail.com Password - comp6442
-+ Firebase: https://firebase.google.com/
-+ Alpha Vantage: https://www.alphavantage.co/
-+ Alpha Vantage API key - GF4EX3XKAFSY29GH
-+ Stock News: https://stocknewsapi.com/
-+ News API key: isto2i4cq7h369pzieouu5wxaw3n8bbjdgorkvaq
