@@ -1,7 +1,4 @@
-/******
- * Project: Software Construction
- * Author: DILEEP VEMULA and ABHISHEK CHETRI
- */
+
 package com.example.softwareconstructionassign;
 
 public class User {
