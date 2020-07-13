@@ -1,7 +1,4 @@
-/******
- * Project: Software Construction
- * Author: DILEEP VEMULA (U6631257) AND KRUTHI KRISHNA SENAPATHI (U6601532)
- */package com.example.softwareconstructionassign;
+package com.example.softwareconstructionassign;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
