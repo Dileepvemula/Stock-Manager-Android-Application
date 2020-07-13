@@ -35,7 +35,7 @@ import org.json.JSONObject;
 
 import java.util.ArrayList;
 
-// Code by Abhishek Chetri (u6647717)
+
 
 public class mainscreen extends AppCompatActivity {
 
@@ -257,7 +257,7 @@ public class mainscreen extends AppCompatActivity {
         String term = search.getText().toString();
         stringvolume = volume.getText().toString();
         if (!stringvolume.isEmpty()) {
-            String url = "https://www.alphavantage.co/query?function=SYMBOL_SEARCH&keywords=" + term + "&apikey=GF4EX3XKAFSY29GH";
+            String url = "https://www.alphavantage.co/query?function=SYMBOL_SEARCH&keywords=" + term + "&apikey='API KEY HERE'";
             JsonObjectRequest jsonObjectRequest = new JsonObjectRequest
                     (Request.Method.GET, url, null, new Response.Listener<JSONObject>() {
                         @Override
