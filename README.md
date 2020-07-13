@@ -12,6 +12,8 @@ The app navigation includes both top and bottom.
 The app features are connectivity to FireBase database, call to Alpha Vantage API, use of MPAndriodCharts, call to Stock News api.
 The app also includes: About Us and Help
 
+### This application was designed between April,2019 and May,2019
+
 ### Login
 In the login screen, the user enters user email and password.
 If the user is not registered, the app provides an option to register the 
