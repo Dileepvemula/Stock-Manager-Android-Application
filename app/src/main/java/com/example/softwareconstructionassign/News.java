@@ -1,7 +1,4 @@
-/************
- * Project: Software Construction
- * Author: Mansoor Ali Halari
- */
+
 package com.example.softwareconstructionassign;
 
 public class News {
