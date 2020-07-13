@@ -1,7 +1,4 @@
-/***
- * Project: Software Construction
- * Author: DILEEP VEMULA (U6631257)
- */
+
 
 package com.example.softwareconstructionassign;
 
